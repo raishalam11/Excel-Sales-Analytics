@@ -1,7 +1,14 @@
 # 📊 Sales & Finance Analytics Project (Excel)
 
-## Summary
+## Project Summary
 
+This project analyzes sales and financial data for AtliQ Hardware using Excel analytics tools.
+
+**Key highlights:**
+- Built ETL pipeline using Power Query  
+- Developed Star Schema data model  
+- Created Sales and Finance analytical reports  
+- Generated insights for business decision making
 
 # 📌 Project Overview
 
