@@ -14,7 +14,7 @@ This project analyzes sales and financial data for AtliQ Hardware using Excel an
 
 This project demonstrates how data analytics can transform raw sales and financial data into actionable business insights.
 
-Using Microsoft Excel’s advanced analytics tools, I developed a comprehensive reporting solution for AtliQ Hardware, enabling stakeholders to monitor sales performance, market trends, and financial outcomes.
+Using Microsoft Excel’s advanced analytics tools, I developed a comprehensive reporting solution for AtliQ Hardware, enabling stakeholders to monitor sales performance, market trends and financial outcomes.
 
 The project applies data cleaning, modeling, analysis, and reporting techniques to build interactive business reports that support data-driven decision-making.
 
@@ -50,7 +50,6 @@ The analysis answers important business questions such as:
 The project follows a standard Data Analytics Workflow:
 
 <img width="387" height="534" alt="Project Architecture" src="https://github.com/user-attachments/assets/a4308145-57be-479d-9533-f7f5db00b23c" />
-
 
 This pipeline ensures accurate, consistent, and structured data for analysis.
 
@@ -167,6 +166,7 @@ This project demonstrates how businesses can use data analytics to improve decis
 # 👨‍💻 Author
 
 Mohammad Raish Alam
+
 Data Analyst | Data Science Enthusiast
 
 🔗 GitHub https://github.com/raishalam11
