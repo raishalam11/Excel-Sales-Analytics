@@ -120,14 +120,14 @@ https://github.com/raishalam11/Excel-Sales-Finance-Analytics/blob/main/P%26L_For
 Analyzes yearly profitability trends.
 
 🔗 Report Link
-https://github.com/raishalam11/Excel-Sales-Finance-Analytics/blob/main/P%26L_By_FiscalYears.pdf
+https://github.com/raishalam11/Excel-Sales-Analytics/blob/main/PnL_by_Fiscal_Years.pdf
 
 3️⃣ Profit & Loss by Fiscal Month
 
 Tracks monthly financial performance and seasonal patterns.
 
 🔗 Report Link
-https://github.com/raishalam11/Excel-Sales-Finance-Analytics/blob/main/P%26L_By_FiscalMonths.pdf
+https://github.com/raishalam11/Excel-Sales-Analytics/blob/main/PnL_by_Fiscal_Months.pdf
 
 📊 Key Business Insights
 
