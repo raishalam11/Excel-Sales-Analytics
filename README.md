@@ -108,21 +108,14 @@ https://github.com/raishalam11/Excel-Sales-Analytics/blob/main/Market_Performanc
 
 # 💰 Finance Analytics
 
-1️⃣ Profit & Loss by Markets
-
-Provides financial insights across different market regions.
-
-🔗 Report Link
-https://github.com/raishalam11/Excel-Sales-Finance-Analytics/blob/main/P%26L_For_Markets.pdf
-
-2️⃣ Profit & Loss by Fiscal Year
+1️⃣ Profit & Loss by Fiscal Year
 
 Analyzes yearly profitability trends.
 
 🔗 Report Link
 https://github.com/raishalam11/Excel-Sales-Analytics/blob/main/PnL_by_Fiscal_Years.pdf
 
-3️⃣ Profit & Loss by Fiscal Month
+2️⃣ Profit & Loss by Fiscal Month
 
 Tracks monthly financial performance and seasonal patterns.
 
