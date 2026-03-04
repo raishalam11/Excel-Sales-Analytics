@@ -104,7 +104,7 @@ This report compares actual sales vs sales targets across markets.
 - Supported data-driven sales planning
 
 🔗 Report Link
-https://github.com/raishalam11/Excel-Sales-Finance-Analytics/blob/main/Market_Vs_Target%20Report.pdf
+https://github.com/raishalam11/Excel-Sales-Analytics/blob/main/Market_Performance_VS_Target.pdf
 
 # 💰 Finance Analytics
 
